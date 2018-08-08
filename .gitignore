@@ -1,3 +1,5 @@
 .ipynb_checkpoints/*
 *.h5
 tmp/*.h5
+output*
+*__pycache__
