@@ -8,6 +8,5 @@
 - 뉴스 기사 분류 / 텍스트 의미 분석 / 감성 분석 / 텍스트 생성과 품사 태깅 / 숫자 인식, 이미지 분류 / 이미지 주석 생성 등등
 
 ## 목차
-<!-- 1. [Basic](01.&#32;Basic.md)
-2. [Keras의 전반에 대한 기초 설명](02.&#32;Keras의&#32;전반에&#32;대한&#32;기초&#32;설명.md)
--->
+1. [3분 딥러닝 케라스](https://github.com/AI-Trolls/keras-notebook/tree/master/3boon_keras)
+2. [Deeplearning with Keras](https://github.com/AI-Trolls/keras-notebook/tree/master/book1)
