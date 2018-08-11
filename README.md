@@ -7,6 +7,10 @@
 - 케라스로 여러가지 모델 구현
 - 케라스 커스터 마이징 방법도 다룸
 
+# 추천자료
+- 어떤 착한 분이 케라스 관련 리소스 정리
+  - https://github.com/fchollet/keras-resources
+
 ## 목차
 1. [3분 딥러닝 케라스](https://github.com/AI-Trolls/keras-notebook/tree/master/3boon_keras)
 2. [Deeplearning with Keras](https://github.com/AI-Trolls/keras-notebook/tree/master/book1)
